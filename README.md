@@ -1,16 +1,9 @@
-# saltstack
-My shared SaltStack master branch.
+# foundation
+My shared SaltStack configuration for a secure and commercially cloudless home network.
 
 Instructions:
 1. Clone to your /srv/salt directory.
 2. Here are my default file_roots:
     base:
-      # Telemetry
-      /srv/salt/base
-    debug:
-      # Diagnostics, don't keep on end station.
-      /srv/salt/debug
-    admin:
-      # Admin station tools
-      /srv/salt/admin
+      /srv/salt
     
