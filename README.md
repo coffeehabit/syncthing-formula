@@ -4,7 +4,8 @@ My shared SaltStack configuration for a secure and commercially cloudless home n
 ## We assume the following
 * Familiarity with networking protocols.
 * There exists, real or virtual, a SaltStack master server.
-* This is a home environment that consists of your "everyday devices," e.g. i386, x86_64, ARM, aka computers, running Android or debian-flavored linux. 
+* This is a home environment that consists of your "everyday devices," e.g. i386, x86_64, ARM, aka computers, running Android or debian-flavored linux.
+** SaltStack also works on Windows and Mac devices, but this setup is personalized for Debian. Perhaps there could be a wrapper?
 
 # Instructions
 1. Clone this repo to your base file_roots or /srv/salt directory.
