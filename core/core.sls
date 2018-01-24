@@ -1,4 +1,4 @@
-syncthing:
+packages.syncthing:
   pkg.installed
   
 i3:
