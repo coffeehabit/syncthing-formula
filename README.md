@@ -15,3 +15,4 @@ My shared SaltStack configuration for a secure and commercially cloudless home n
     
 # References
 1. Repository management: https://docs.saltstack.com/en/latest/ref/states/all/salt.states.pkgrepo.html
+2. Syncthing: https://apt.syncthing.net/
