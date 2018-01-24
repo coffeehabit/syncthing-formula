@@ -1,4 +1,4 @@
-# foundation
+# Constant revolution
 My shared SaltStack configuration for a secure and commercially cloudless home network.
 
 Instructions:
@@ -7,3 +7,5 @@ Instructions:
     base:
       /srv/salt
     
+## References
+1. Repository management: https://docs.saltstack.com/en/latest/ref/states/all/salt.states.pkgrepo.html
