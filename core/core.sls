@@ -3,9 +3,6 @@ syncthing:
   
 i3:
   pkg.installed
-  
+
 openvpn:
-  pkg.installed
-  
-git:
   pkg.installed
