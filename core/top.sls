@@ -2,3 +2,4 @@
 base:
   '*':
     - core
+    - networking
