@@ -13,6 +13,9 @@ rofi:
 i3blocks:
   pkg.installed
   
+mc:
+  pkg.installed
+
 keepassxc:
   pkg.installed
 
@@ -23,4 +26,10 @@ steam:
   pkg.installed
   
 firefox:
+  pkg.installed
+
+libreoffice:
+  pkg.installed
+  
+obs:
   pkg.installed
