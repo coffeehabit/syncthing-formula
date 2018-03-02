@@ -33,3 +33,6 @@ libreoffice:
   
 obs:
   pkg.installed
+
+gimp:
+  pkg.installed
