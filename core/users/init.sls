@@ -1,3 +1,13 @@
+# Contents of /srv/pillar/users/init.sls:
+# ----
+#   users:
+#     jackie: 1011
+# 
+#   home_dirs:
+#     Documents/Exports: jackie
+#     Scripts/Bash/test: jackie
+# ----
+
 # Create default users
 {% for user, uid in pillar.get('users', {}).items() %}
 {{user}}:
