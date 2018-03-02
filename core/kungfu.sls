@@ -36,3 +36,6 @@ obs:
 
 gimp:
   pkg.installed
+
+include:
+  - configure-i3
