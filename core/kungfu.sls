@@ -15,3 +15,12 @@ i3blocks:
   
 keepassxc:
   pkg.installed
+
+darktable:
+  pkg.installed
+  
+steam:
+  pkg.installed
+  
+firefox:
+  pkg.installed
