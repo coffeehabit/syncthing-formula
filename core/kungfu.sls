@@ -37,6 +37,9 @@ obs:
 gimp:
   pkg.installed
   
+shutter:
+  pkg.installed
+  
 xcfe4-terminal:
   pkg.installed
 
