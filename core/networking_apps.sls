@@ -4,5 +4,5 @@ openvpn:
 #Copy VPN profiles:
 #  file.recurse
 
-syncthing:
+packages.syncthing:
   pkg.installed
