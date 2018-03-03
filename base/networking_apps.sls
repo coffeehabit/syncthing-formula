@@ -4,6 +4,9 @@
 
   blueman-applet:
     pkg.installed
+    
+  nm-applet:
+    pkg.installed
 {% endif %}
 
 openvpn:
