@@ -1,4 +1,4 @@
-packages.syncthing:
+syncthing:
   pkg.installed
 
 openvpn:
