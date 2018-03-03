@@ -3,6 +3,6 @@ base:
   '*':
     - networking
 
-  'debbie':
+  'deb-workstation':
     - users.init
     - kungfu
