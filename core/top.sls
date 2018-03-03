@@ -1,5 +1,7 @@
 
 base:
   '*':
-    - core
     - networking
+
+  'debbie':
+    - kungfu
