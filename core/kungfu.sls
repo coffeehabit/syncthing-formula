@@ -36,6 +36,9 @@ obs:
 
 gimp:
   pkg.installed
+  
+xcfe4-terminal:
+  pkg.installed
 
 include:
   - configure-i3
