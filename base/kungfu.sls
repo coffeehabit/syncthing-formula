@@ -10,9 +10,5 @@ mc:
 keepassxc:
   pkg.installed
   
-steam:
-  pkg.installed
-  
 firefox:
   pkg.installed
-  
