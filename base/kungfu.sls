@@ -1,16 +1,8 @@
 include:
   - office_apps
   - networking_apps
-  
-i3:
-  pkg.installed
+  - i3
 
-rofi:
-  pkg.installed
-  
-i3blocks:
-  pkg.installed
-  
 mc:
   pkg.installed
 
@@ -23,8 +15,3 @@ steam:
 firefox:
   pkg.installed
   
-xcfe4-terminal:
-  pkg.installed
-
-include:
-  - configure-i3
