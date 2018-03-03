@@ -1,6 +1,5 @@
 users:
   debbie: 1010
-  guest: 1001
 
 home_dirs:
   Documents/Certificates: debbie
