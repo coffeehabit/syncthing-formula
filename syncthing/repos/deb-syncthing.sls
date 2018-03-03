@@ -1,4 +1,4 @@
-syncthing_repo:
+deb-syncthing:
   pkgrepo.managed:
     - humanname: deb-syncthing
     - name: deb https://apt.syncthing.net/ syncthing stable
