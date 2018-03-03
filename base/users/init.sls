@@ -1,11 +1,11 @@
 # Contents of /srv/pillar/users/init.sls:
 # ----
 #   users:
-#     jackie: 1011
+#     debbie: 1011
 # 
 #   home_dirs:
-#     Documents/Exports: jackie
-#     Scripts/Bash/test: jackie
+#     Documents/Certificates: debbie
+#     Mobile/Certificates: debbie
 # ----
 
 # Create default users
