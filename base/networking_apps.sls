@@ -7,5 +7,9 @@ openvpn:
 blueman-applet:
   pkg.installed
 
-packages.syncthing:
+# SYNCTHING
+include:
+  repos.syncthing
+
+syncthing:
   pkg.installed
