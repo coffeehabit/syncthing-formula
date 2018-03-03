@@ -16,3 +16,4 @@ My shared SaltStack configuration for a secure and commercially cloudless home n
 # References
 1. Repository management: https://docs.saltstack.com/en/latest/ref/states/all/salt.states.pkgrepo.html
 2. Syncthing: https://apt.syncthing.net/
+3. Rofi config: https://www.reddit.com/r/i3wm/comments/7m3gp8/rofi_line_in_i3_config_file/
