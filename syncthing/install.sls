@@ -1,6 +1,6 @@
 {% if grains['os'] = 'debian' %}
   include:
-    repos.syncthing
+    repos.deb-syncthing
 {% endif %}
 
 syncthing:
