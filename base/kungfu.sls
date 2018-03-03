@@ -1,6 +1,6 @@
 include:
   - office_apps
-  - networking
+  - networking_apps
   
 i3:
   pkg.installed
