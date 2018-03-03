@@ -12,3 +12,6 @@ keepassxc:
   
 firefox:
   pkg.installed
+
+git:
+  pkg.installed
