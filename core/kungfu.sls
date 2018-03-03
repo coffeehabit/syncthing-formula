@@ -1,8 +1,6 @@
-packages.syncthing:
-  pkg.installed
-
-openvpn:
-  pkg.installed
+include:
+  - office_apps
+  - networking_apps
   
 i3:
   pkg.installed
@@ -18,26 +16,11 @@ mc:
 
 keepassxc:
   pkg.installed
-
-darktable:
-  pkg.installed
   
 steam:
   pkg.installed
   
 firefox:
-  pkg.installed
-
-libreoffice:
-  pkg.installed
-  
-obs:
-  pkg.installed
-
-gimp:
-  pkg.installed
-  
-shutter:
   pkg.installed
   
 xcfe4-terminal:
