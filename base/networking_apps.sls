@@ -1,15 +1,16 @@
+{% if grains['os'] = 'debian' %}
+  include:
+    repos.syncthing
+
+  blueman-applet:
+    pkg.installed
+{% endif %}
+
 openvpn:
   pkg.installed
   
 #Copy VPN profiles:
 #  file.recurse
-
-blueman-applet:
-  pkg.installed
-
-# SYNCTHING
-include:
-  repos.syncthing
 
 syncthing:
   pkg.installed
