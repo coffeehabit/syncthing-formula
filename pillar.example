@@ -25,3 +25,7 @@ home_dirs:
   Projects/default/RENDERS/HI_RES: debbie
   Projects/default/RENDERS/LOW_RES: debbie
   Templates/Components: debbie
+
+devices:
+  deviceName1:
+    syncDir1: Documents/
