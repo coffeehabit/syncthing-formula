@@ -1,7 +1,7 @@
 
 base:
   '*':
-    - networking
+    - networking_apps
 
   'debstation*':
     - users.init
