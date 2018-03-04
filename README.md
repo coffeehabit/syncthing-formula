@@ -1,9 +1,8 @@
 # Constant revolution
 My shared SaltStack configuration for a secure and commercially cloudless home network.
 
-## We assume the following
-* Haphazard familiarity with networking protocols.
-* There exists, real or virtual, a SaltStack master server.
+## Materials
+* A SaltStack master server.
 * This is a home environment that consists of your "everyday devices," e.g. i386, x86_64, ARM, aka computers, running Android or debian-flavored linux.
 ** SaltStack also works on Windows and Mac devices, but this setup is personalized for Debian. Maybe Arch and Raspbian, down the line.
 
