@@ -1,6 +1,9 @@
 synced_users:
-  debbie: 1011
+  debbie:
+    device-id: AAAAA-BBBBB-CCCCC-......
 
 synced_dirs:
-  Documents: r$3.......secure-folder-key
-  Mobile/DCIM: a4$.....secure-folder-key
+  Documents:
+    folder-id: r$3.......secure-folder-key
+  Mobile/DCIM:
+    folder-id: a4$.....secure-folder-key
