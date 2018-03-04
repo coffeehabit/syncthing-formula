@@ -1,31 +1,6 @@
-users:
+synced_users:
   debbie: 1011
 
-home_dirs:
-  Documents/Certificates: debbie
-  Documents/Exports: debbie
-  Documents/Taxes: debbie
-  Mobile/Certificates: debbie
-  Mobile/Contacts: debbie
-  Mobile/DCIM: debbie
-  Mobile/Documents: debbie
-  Mobile/Exports: debbie
-  Mobile/Keepass: debbie
-  Mobile/Music: debbie
-  Mobile/Pictures/Wallpapers: debbie
-  Pictures/DCIM: debbie
-  Pictures/Icons: debbie
-  Pictures/Scans: debbie
-  Pictures/Screenshots: debbie
-  Pictures/Wallpapers: debbie 
-  Projects/default/ASSETS/AUDIO: debbie
-  Projects/default/ASSETS/STILLS: debbie
-  Projects/default/ASSETS/VIDEO: debbie
-  Projects/default/PROJECTS: debbie
-  Projects/default/RENDERS/HI_RES: debbie
-  Projects/default/RENDERS/LOW_RES: debbie
-  Templates/Components: debbie
-
-devices:
-  deviceName1:
-    syncDir1: Documents/
+synced_dirs:
+  Documents: r$3.......secure-folder-key
+  Mobile/DCIM: a4$.....secure-folder-key
