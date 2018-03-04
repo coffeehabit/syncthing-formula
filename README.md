@@ -12,8 +12,13 @@ My shared SaltStack configuration for a secure and commercially cloudless home n
 2. Here are my default file_roots:
     base:
       /srv/salt
+      
+# syncthing
+Install Syncthing and sync indicated directories.
+
+# syncthing.repo
+Install Debian repo if needed to install Syncthing. Requires apt-transport-https. Broken, won't fix.
     
 # References
-1. Repository management: https://docs.saltstack.com/en/latest/ref/states/all/salt.states.pkgrepo.html
-2. Syncthing: https://apt.syncthing.net/
-3. Rofi config: https://www.reddit.com/r/i3wm/comments/7m3gp8/rofi_line_in_i3_config_file/
+1. Syncthing: https://syncthing.net/
+2. Repository management: https://docs.saltstack.com/en/latest/ref/states/all/salt.states.pkgrepo.html
