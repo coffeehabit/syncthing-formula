@@ -5,7 +5,22 @@
 #
 # Instead of syncing devices, let's try user device assignments..
 
-users:
+syncthing_users:
   debbie:
-    synced_homedirs:
-      - Documents
+    id: AAAAA-BBBBB-CCCCC-......
+  testuser1:
+    id: AAAAA-BBBBB-CCCCC-......
+    groups:
+      - somegroup
+  testuser2:
+    id: AAAAA-BBBBB-CCCCC-......
+    groups:
+      - somegroup
+
+syncthing_home_folders:
+  Documents:
+    key: lshvnl-v48ns...
+  Pictures:
+    key: klcean-9w4hc...
+    synced_groups:
+      - somegroup
